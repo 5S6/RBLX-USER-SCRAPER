@@ -1,7 +1,7 @@
 # RBLX-USER-SCRAPER
 An easy tool to scrape roblox users ;)
 
-Just run "python3 main.py" and boom! 
+Just run **"python3 main.py"** and boom! 
 
 Have fun with it! 
 
