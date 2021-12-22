@@ -1,8 +1,8 @@
 import requests
 import math
 import json
-userId = int(input("Start ID: "))
-Stop = int(input("End ID: "))
+userId = int(input("Start ID: ")) #Start ID *(ex:1)*
+Stop = int(input("End ID: ")) #End ID *(ex:100)*
 
 
 
